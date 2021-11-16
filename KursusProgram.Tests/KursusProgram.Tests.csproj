@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\KursusProgram\KursusProgram.csproj" />
+    <ProjectReference Include="..\KursusProgram\KursusApp.csproj" />
   </ItemGroup>
 
 </Project>
